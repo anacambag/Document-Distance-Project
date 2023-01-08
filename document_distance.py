@@ -1,10 +1,5 @@
-# 6.100A Fall 2022
-# Problem Set 3
-# Written by: sylvant, muneezap, charz, anabell, nhung, wang19k, asinelni, shahul, jcsands
-
-# Problem Set 3
 # Name: Ana Camba Gomes
-# Collaborators: Fabiana Gonzalez
+
 
 # Purpose: Check for similarity between two texts by comparing different kinds of word statistics.
 
